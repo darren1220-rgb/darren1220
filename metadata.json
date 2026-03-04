@@ -1,0 +1,5 @@
+{
+  "name": "投資紀錄分析大師 (Investment Portfolio Tracker)",
+  "description": "一個專業的投資組合追蹤與分析工具，支援股票、ETF、基金、黃金等多種資產類別，並提供即時數據分析與圖表展示。",
+  "requestFramePermissions": []
+}
